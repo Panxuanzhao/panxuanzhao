@@ -10,6 +10,7 @@
 *.sln   
 ##class file##
 *.com  
+*.gitignore
 *.class  
 *.dll  
 *.exe  
